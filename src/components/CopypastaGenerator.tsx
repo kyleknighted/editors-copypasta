@@ -71,7 +71,7 @@ export const CopypastaGenerator: React.FC = () => {
 
   return (
     <div className="w-full max-w-4xl mx-auto p-6 bg-white rounded-lg shadow-lg">
-      <h1 className="text-3xl font-bold mb-6 text-gray-800">Copypasta Generator</h1>
+      <h1 className="text-3xl font-bold mb-6 text-gray-800">Editors Copypasta Generator</h1>
 
       <div className="mb-6">
         <h2 className="text-xl font-semibold mb-3 text-gray-700">Select a Template</h2>
